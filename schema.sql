@@ -5,3 +5,7 @@ CREATE TABLE users (
     first_name varchar(255),
     last_name varchar(255)
 );
+
+alter TABLE users
+add column first_name varchar (100),
+add column last_name varchar (100);
