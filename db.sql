@@ -4,4 +4,4 @@ insert into users (username, first_name, last_name) values (kurniawan_digital_sk
 insert into users (username, first_name, last_name) values (adam_digital_skola, adam, makmur);
 insert into users (username, first_name, last_name) values (dito_digital_skola, dito, setyadhi);
 insert into users (username, first_name, last_name) values (kendrick_digital_skola, kendrick, lamar);
-insert into users (username, first_name, last_name) values (pradityoaziz, pradityo, aziz);
+insert into users (username, first_name, last_name) values (pradityo_digital_skola, pradityo, aziz);
