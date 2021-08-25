@@ -9,3 +9,4 @@ insert into users (username, first_name, last_name) values (nurcahyo_digital_sko
 insert into users (username, first_name, last_name) values (Jamaludin_Arif_digital_skola, jamaludin, rohman);
 insert into users (username, first_name, last_name) values (gegi_digital_skola, gegi, ajiardiawan);
 insert into users (username, first_name, last_name) values (dicky_digital_skola, dicky, ilhami);
+insert into users (username, first_name, last_name) values (tessa_digital_skola, tessa, holy);
