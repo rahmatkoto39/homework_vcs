@@ -27,3 +27,8 @@ alter TABLE users
 add column first_name varchar(150) not null;
 add column last_name varchar(150) not null;
 ---------------
+
+alter TABLE users
+add column first_name varchar(60) not null;
+add column last_name varchar(60) not null;
+
