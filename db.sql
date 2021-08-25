@@ -6,3 +6,4 @@ insert into users (username, first_name, last_name) values (dito_digital_skola, 
 insert into users (username, first_name, last_name) values (kendrick_digital_skola, kendrick, lamar);
 insert into users (username, first_name, last_name) values (pradityo_digital_skola, pradityo, aziz);
 insert into users (username, first_name, last_name) values (nurcahyo_digital_skola, nurcahyo, satria);
+insert into users (username, first_name, last_name) values (Jamaludin_Arif_digital_skola, jamaludin, rohman);
