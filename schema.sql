@@ -4,6 +4,8 @@ CREATE TABLE users (
     created_at TIMESTAMP DEFAULT NOW(),
     first_name varchar(255),
     last_name varchar(255)
+    first_name varchar(30)
+    last_name varchar(30)
 );
 
 alter TABLE users
