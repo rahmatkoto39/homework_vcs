@@ -14,3 +14,6 @@ alter TABLE users
 add column first_name VARCHAR(50) not null,
 add column last_name VARCHAR(50) not null;
 
+alter TABLE users
+add column first_name VARCHAR(50) not null,
+add column last_name VARCHAR(50) not null;
