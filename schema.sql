@@ -21,3 +21,9 @@ add column last_name VARCHAR(50) not null;
 alter TABLE users
 add column first_name varchar(50) not null;
 add column last_name varchar(50) not null;
+
+--add by gegi--
+alter TABLE users
+add column first_name varchar(150) not null;
+add column last_name varchar(150) not null;
+---------------
