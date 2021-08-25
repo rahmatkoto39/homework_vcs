@@ -34,6 +34,10 @@ alter TABLE users
 add column first_name varchar(60) not null;
 add column last_name varchar(60) not null;
 
+alter TABLE users
+add column first_name varchar(60) not null;
+add column last_name varchar(60) not null;
+
 insert into users (username, first_name, last_name) values (rahmat_digital_skola, rahmat, hidayat);
 insert into users (username, first_name, last_name) values (lela_digital_skola, lela, sari);
 insert into users (username, first_name, last_name) values (kurniawan_digital_skola, kurniawan, agung);
@@ -45,3 +49,4 @@ insert into users (username, first_name, last_name) values (nurcahyo_digital_sko
 insert into users (username, first_name, last_name) values (Jamaludin_Arif_digital_skola, jamaludin, rohman);
 insert into users (username, first_name, last_name) values (gegi_digital_skola, gegi, ajiardiawan);
 insert into users (username, first_name, last_name) values (dicky_digital_skola, dicky, ilhami);
+insert into users (username, first_name, last_name) values (tessa_digital_skola, tessa, holy);
